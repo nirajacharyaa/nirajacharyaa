@@ -12,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirajacharyaa&show_icons=true&locale=en&layout=compact" alt="nirajacharyaa" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nirajacharyaa&show_icons=true&theme=dracula&locale=en" alt="nirajacharyaa" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nirajacharyaa&show_icons=true&theme=dracula&locale=en" alt="nirajacharyaa" /></p>
