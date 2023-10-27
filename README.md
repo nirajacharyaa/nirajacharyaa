@@ -17,9 +17,9 @@
 
 <div>
   
-<img height="400" src="https://spotify-recently-played-readme.vercel.app/api?user=w7v2zvl08ic2a2advcmvrjdpu&count=4" />
+<img height="320" src="https://spotify-recently-played-readme.vercel.app/api?user=w7v2zvl08ic2a2advcmvrjdpu&count=4" />
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=w7v2zvl08ic2a2advcmvrjdpu&redirect=true">
-<img height="400" src="https://spotify-github-profile.vercel.app/api/view?uid=w7v2zvl08ic2a2advcmvrjdpu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
+<img height="320" src="https://spotify-github-profile.vercel.app/api/view?uid=w7v2zvl08ic2a2advcmvrjdpu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
 </a>
 
 </div>
