@@ -1,12 +1,13 @@
 <br clear="both">
 
+
 <div align="left">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  <img src="https://raw.githubusercontent.com/nirajacharyaa/nirajacharyaa/main/github-header-image.png"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nirajacharyaa&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="146" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=nirajacharyaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M j[, Y]" height="145" alt="streak graph"  />
 </div>
@@ -57,7 +58,7 @@
 
 ###
 
-<div align="left">
+<div>
   <a href="https://discord.com/channels/@me/nirajacharyaa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -70,11 +71,14 @@
 </div>
 
 ###
+<div>
+  
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=w7v2zvl08ic2a2advcmvrjdpu&count=4" />
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w7v2zvl08ic2a2advcmvrjdpu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
 
 ###
+
 
 <br clear="both">
 
